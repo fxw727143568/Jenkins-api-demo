@@ -8,7 +8,6 @@ import java.io.IOException;
 /**
  * 自定义服务，补充 jenkins java client 没有封装的内容
  *
- * @author mydlq
  */
 public class CustomService {
 
